@@ -33,14 +33,14 @@ cliente al servidor. En concreto, se pide que se manden los siguientes mensajes 
 cliente FTP:
 
 
-![alt tag](https://github.com/Carl2100/ClienteFTP/blob/master/mensajeftp.png)
+![alt tag](https://github.com/CCGalindo/ClienteFTP/blob/master/mensajeftp.png)
 
 El servidor irá respondiendo con los mensajes definidos en el protocolo FTP. Esto mensajes se
 muestran con flechas rojas en el siguiente diagrama. Habrá que recibir estas respuestas desde
 nuestra implementación en Java. Podemos ir mostrando estas respuestas en la salida estándar
 para trazar nuestro programa:
 
-![alt tag](https://github.com/Carl2100/ClienteFTP/blob/master/mensajeftp2.png)
+![alt tag](https://github.com/CCGalindo/ClienteFTP/blob/master/mensajeftp2.png)
 
 
 #### Objetivo 
@@ -57,8 +57,8 @@ Mostraremos esta lista por la salida estándar.
 Un ejemplo de la secuencia de mensajes y respuestas completa que se pide en la práctica es
 como sigue:
 
-![alt tag](https://github.com/Carl2100/ClienteFTP/blob/master/fotoftp3.png)
+![alt tag](https://github.com/CCGalindo/ClienteFTP/blob/master/fotoftp3.png)
 
 #### Uso 
 Clonar el repositorio ClienteFTP
- >$ git clone https://github.com/Carl2100/ClienteFTP.git
+ >$ git clone https://github.com/CCGalindo/ClienteFTP.git
