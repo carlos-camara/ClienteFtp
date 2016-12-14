@@ -14,7 +14,7 @@ ClienteFTP
 
 #### Introducción 
 
-Vamos a usar la API de sockets de Java para implementar nuestro propio cliente FTP. Nuestro
+Voy a usar la API de sockets de Java para implementar mi propio cliente FTP. Mi
 cliente FTP se conectará a un servidor FTP que permita usuarios anónimos (FTP anónimos).
 Existen muchos servidores anónimos disponibles en Internet. Podemos elegir cualquiera de
 ellos para realizar nuestro cliente FTP.
